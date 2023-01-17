@@ -1,10 +1,12 @@
 <picture>
-    <img src="https://gist.github.com/Kade-Powell/97df55b3b3d7dbd7923d9b3d7032bafa" alt="Leptos Logo">
+    <img src="https://raw.githubusercontent.com/Kade-Powell/Leptos-Surreal/main/leptos-surreal.svg" alt="Leptos Logo">
 </picture>
 
 # Leptos Starter Template
 
 This is a template for use with the [Leptos](https://github.com/leptos-rs/leptos) web framework and the [cargo-leptos](https://github.com/akesson/cargo-leptos) tool.
+
+Set up to use Pico CSS and working on integrating with surreal
 
 ## Creating your template repo
 
